@@ -1,0 +1,11 @@
+Size,Fur,Speaks,Movement,Class
+Small,Short,No,Runs,Cat
+Large,Long,No,Runs,Dog
+Small,None,Yes,Flies,Parrot
+Medium,Short,No,Runs,Cat
+Small,None,No,Swims,Carp
+Medium,Long,No,Runs,Dog
+Large,Short,No,Runs,Dog
+Small,Long,No,Runs,Cat
+Large,None,No,Swims,Carp
+Medium,None,No,Flies,Parrot
